@@ -1,13 +1,13 @@
 ---
 
-Math Toolkit 1.0
+# Math Toolkit 1.0
 
 A beginner-friendly command-line calculator with colorful output.
 
 
 ---
 
-About
+# About
 
 Math Toolkit 1.0 is a simple and interactive command-line calculator designed for quick math operations like square roots, powers, LCM, multiplication, division, logs, and more. It features colorful terminal output for better readability and user experience.
 
@@ -16,7 +16,7 @@ Perfect for beginners learning Python and math concepts!
 
 ---
 
-Features
+# Features
 
 Square Root, Square, Cube, Cube Root
 
@@ -38,7 +38,7 @@ Robust input handling and error messages
 
 ---
 
-Installation
+# Installation
 
 1. Make sure you have Python 3 installed.
 
@@ -53,13 +53,14 @@ pip install colorama
 
 
 
-git clone https://github.com/yourusername/math-toolkit-1.0.git
+git clone 
+https://github.com/Uzair-902/Maths-ToolKit-1.0/tree/main
 cd math-toolkit-1.0
 
 
 ---
 
-Usage
+# Usage
 
 Run the script in your terminal:
 
@@ -70,7 +71,7 @@ Follow the on-screen menu to select operations.
 
 ---
 
-Example
+# Example
 
 Math ToolKit 1.0
 Select an Operation:
@@ -86,21 +87,21 @@ SQUARE ROOT: 5.0
 
 ---
 
-Contributing
+# Contributing
 
 Feel free to open issues or submit pull requests to improve the project.
 
 
 ---
 
-License
+# License
 
 This project is open-source and free to use.
 
 
 ---
 
-Contact
+# Support Me!
 
 Created by Uzair_902
 YouTube: FixDroid-Pro
